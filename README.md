@@ -23,7 +23,7 @@ Copy `aequus.min.js` to your scripts folder, and include it on your page. Then, 
 Or, adjust your HTML:
 
     <div class="container js-aequus" data-aequus-options='{ "targetSelector": ".item" }'>
-        <div class="item">...</div>
+      <div class="item">...</div>
     </div>
 
 ## Local Development
