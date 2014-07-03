@@ -1,0 +1,16 @@
+{
+  "name": "Aequus",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "coffee-script": "^1.7.1",
+    "gulp": "^3.8.1",
+    "gulp-coffee": "^2.0.1",
+    "gulp-concat": "^2.2.0",
+    "gulp-livereload": "^2.1.0",
+    "gulp-sourcemaps": "^0.4.1",
+    "gulp-util": "^2.2.17"
+  }
+}
