@@ -48,6 +48,4 @@ do (window = window, $ = window.jQuery) ->
     $(this)
 
   $('.js-aequus').each ->
-    aequus = new Aequus $(this)
-    aequus.init $(this).data('aequusOptions')
-    $(this)
+    $(this).aequus($(this).data('aequusOptions'))
